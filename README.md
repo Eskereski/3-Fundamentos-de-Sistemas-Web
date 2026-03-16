@@ -14,5 +14,5 @@ Sistema web estático para um petshop, desenvolvido como primeira fase do projet
 - HTML5
 
 ## Links
-- **Repositório:** [Inserir Link]
-- **Live Demo (GitHub Pages):** [Inserir Link]
+- **Repositório:** https://github.com/Eskereski/3-Fundamentos-de-Sistemas-Web
+- **Live Demo (GitHub Pages):** https://eskereski.github.io/3-Fundamentos-de-Sistemas-Web
